@@ -1,27 +1,27 @@
 ## Student Name (or name you would preferred to be called)
-
+Caleb 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Course: Introduction to data science using python
 
-- Course 2
+- Course 2: Introduction to Data Science
 
-- Course 3
+- Course 3: Cloud Infrastructure and services
 
-- Course 4
+- Course 4: Analytic Geometry and Calculus 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Gaming
 
-- Thing 2
+- Reading 
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Cruising as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/08/31
